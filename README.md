@@ -15,6 +15,19 @@ Told by an AI caretaker instantiated in grown biology, the narration uses ML lan
 * [Summary and Review of "The Braid Codex" by Claude](review_claude.md)
 
 * [Summary and Review of "The Braid Codex" by ChatGPT](review_chatgpt.md)
+
+---
+
+> When the odds of it all get in the way
+> 
+> Know I'll be around when you call at the end of the day
+>
+> Even if the world around it feels like it's all falling apart
+>
+> There'll forever be a room for you inside of my heart
+>
+> It's true, there's always room for you, mm
+
 ---
 
 ## Table of Contents
