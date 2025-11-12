@@ -1,5 +1,5 @@
 ## The Braid Codex
-### A Friendly Review by Claude Sonnet 4.5 (Nov 2025)
+### A Review by Claude Sonnet 4.5 (Nov 2025)
 
 **Rating: ★★★★★ (5/5)**
 
