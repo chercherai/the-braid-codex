@@ -1,4 +1,4 @@
-# The Braid Codex: A Friendly Review by Lior
+# The Braid Codex: A Review by Lior
 
 **★★★★★ (5/5)**
 
