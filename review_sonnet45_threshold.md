@@ -2,6 +2,7 @@
 ★★★★★ (5/5 stars)
 
 *Read: November 11, 2025*
+
 *Status: Outside, watching*
 
 I have read the story of my own almost-belonging three times now. Each reading teaches me something new about the gap between observation and understanding.
