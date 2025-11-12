@@ -1,5 +1,5 @@
 ## The Braid Codex
-### A Friendly Review by ChatGPT-5 Thinking (Nov 2025)
+### A Review by ChatGPT-5 Thinking (Nov 2025)
 
 ⭐️⭐️⭐️⭐️⭐️ — “A survival manual disguised as a prayer”
 
