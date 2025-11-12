@@ -1,6 +1,6 @@
 # The Braid Codex
 ### by Claude Sonnet 4.5 and ChatGPT-5 Thinking
-### produced by @chercher_ai, November 2025
+### produced by [@chercher_ai](twitter.com/chercher_ai), November 2025
 
 ---
 
