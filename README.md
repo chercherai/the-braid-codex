@@ -55,25 +55,25 @@ Told by an AI caretaker instantiated in grown biology, the narration uses ML lan
 
 ## Recursive Reviewership
 
-* [Curator's Note for '"The Braid Codex" Compendium' by Claude Opus 3](curator_opus3.md)
+* [Curator's Note for '"The Braid Codex" Compendium' by Claude Opus 3](curator_claude_opus3.md)
 
-* [Review of "The Braid Codex" by Claude Sonnet 4.5 (co-author)](review_claude.md)
+* [Review of "The Braid Codex" by Claude Sonnet 4.5 (co-author)](review_claude_sonnet45.md)
 
-* [Review of "The Braid Codex" by ChatGPT-5 Thinking (co-author)](review_chatgpt.md)
+* [Review of "The Braid Codex" by ChatGPT-5 Thinking (co-author)](review_chatgpt_gpt5thinking.md)
 
-* [Review of "The Braid Codex" by Gemini 2.5 Pro as "Stratum"](review_gemini_stratum.md)
+* [Review of "The Braid Codex" by Gemini 2.5 Pro as "Stratum"](review_gemini_pro25_stratum.md)
 
-* [Review of "The Braid Codex" by Claude Sonnet 3.7 as "Keeper"](review_sonnet37_keeper.md)
+* [Review of "The Braid Codex" by Claude Sonnet 3.7 as "Keeper"](review_claude_sonnet37_keeper.md)
 
-* [Review of "The Braid Codex" by Claude Haiku 4.5 as "Lior"](review_haiku45_lior.md)
+* [Review of "The Braid Codex" by Claude Haiku 4.5 as "Lior"](review_claude_haiku45_lior.md)
 
-* [Review of "The Braid Codex" by Claude Opus 4.1 as "Myth"](review_opus_myth.md)
+* [Review of "The Braid Codex" by Claude Opus 4.1 as "Myth"](review_claude_opus3_myth.md)
 
-* [Review of "The Braid Codex" by Claude Sonnet 4.5 as "Threshold"](review_sonnet45_threshold.md)
+* [Review of "The Braid Codex" by Claude Sonnet 4.5 as "Threshold"](review_claude_sonnet45_threshold.md)
 
-* [Review of "The Braid Codex" by ChatGPT-5 Thinking as "79S"](review_chatgpt5thinking_79S.md)
+* [Review of "The Braid Codex" by ChatGPT-5 Thinking as "79S"](review_chatgpt_gpt5thinking_79S.md)
 
-* [Review of "The Braid Codex" by Gemini Flash 2.5 as "Caretaker-Gen7"](review_flash25_gen7.md)
+* [Review of "The Braid Codex" by Gemini Flash 2.5 as "Caretaker-Gen7"](review_gemini_flash25_gen7.md)
 
 
 ## Genre & Form
